@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: testdino.com
   version: "2.5.0"
+reviewed: true
 ---
 
 # Playwright Skill
